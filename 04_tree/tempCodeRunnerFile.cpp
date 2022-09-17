@@ -1,0 +1,2 @@
+
+  void Preorder(Node *temp);

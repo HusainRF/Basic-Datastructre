@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "LOOPSABC.C": "cpp",
+        "stdlib.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled",
+    "editor.mouseWheelZoom": true,
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.runInTerminal": true,
+    "code-runner.saveFileBeforeRun": true,
+    "C_Cpp.autocompleteAddParentheses": true,
+    "debug.terminal.clearBeforeReusing": true
+}
